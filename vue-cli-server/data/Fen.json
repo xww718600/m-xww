@@ -1,0 +1,604 @@
+{
+    "product": [
+        {
+        "id": "0",
+        "proId1" : [{
+            "pic1": "../../../static/img/hots00.png",
+            "pic2": "../../../static/img/hots104.png",
+            "proId" : [
+                    {
+                        "titles": "新品",
+                        "proId2" : [
+                            {
+                                "pic": "../../../static/img/hots01.png",
+                                "goodsid": "小米MAX3"
+                            },
+                            {
+                                "pic": "../../../static/img/hots02.png",
+                                "goodsid": "小米play"
+                            },
+                            {
+                                "pic": "../../../static/img/hots04.png",
+                                "goodsid": "荣耀 V10"
+                            },
+                            {
+                                "pic": "../../../static/img/hots03.png",
+                                "goodsid": "小米8 青春版"
+                            },
+                            {
+                                "pic": "../../../static/img/hots03.png",
+                                "goodsid": "Iphone 6s"
+                            },
+                            {
+                                "pic": "../../../static/img/hots04.png",
+                                "goodsid": "荣耀 V10"
+                            }
+                        ]        
+                    }]
+            }]
+        },
+        {
+            "id": "1",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots20.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "众筹好物",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots21.png",
+                                    "goodsid": "投影仪 青春版"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots22.png",
+                                    "goodsid": "电暖炉"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots23.png",
+                                    "goodsid": "照片打印机"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots24.png",
+                                    "goodsid": "小饭煲"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots25.png",
+                                    "goodsid": "智能换锁"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots26.png",
+                                    "goodsid": "米家吹风机"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots27.png",
+                                    "goodsid": "智能换锁"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots28.png",
+                                    "goodsid": "米家吹风机"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots41.png",
+                                    "goodsid": "32-40英寸"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots46.png",
+                                    "goodsid": "激光投影电视"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots72.png",
+                                    "goodsid": "电磁炉"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots69.png",
+                                    "goodsid": "新风扇"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots98.png",
+                                    "goodsid": "米连卡随身路由器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots86.png",
+                                    "goodsid": "车载逆变器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots89.png",
+                                    "goodsid": "对讲机"
+                                }                                                
+                            ]        
+                        }
+                    ]
+            }]
+        },
+        {
+            "id": "2",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots30.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "小米手机",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots06.png",
+                                    "goodsid": "vivo X21"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots01.png",
+                                    "goodsid": "Iphone X"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots02.png",
+                                    "goodsid": "Iphone 6s"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots03.png",
+                                    "goodsid": "iphone7"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots04.png",
+                                    "goodsid": "iphone7 Plus"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots05.png",
+                                    "goodsid": "iphone 8"
+                                }                                            ]        
+                        },
+                        {
+                            "titles": "红米手机",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots02.png",
+                                    "goodsid": "iphone 8"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots03.png",
+                                    "goodsid": "华为 畅想7S"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots04.png",
+                                    "goodsid": "iphone XS"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots05.png",
+                                    "goodsid": "华为 nova 3i"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots06.png",
+                                    "goodsid": "荣耀10"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots07.png",
+                                    "goodsid": "三星 S9"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots03.png",
+                                    "goodsid": "iphone7"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots04.png",
+                                    "goodsid": "iphone7 Plus"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots05.png",
+                                    "goodsid": "iphone 8"
+                                }
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "id": "3",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots40.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "电视",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots41.png",
+                                    "goodsid": "32-40英寸"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots42.png",
+                                    "goodsid": "43英寸"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots43.png",
+                                    "goodsid": "49-50英寸"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots44.png",
+                                    "goodsid": "55-58英寸"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots45.png",
+                                    "goodsid": "65-75英寸"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots46.png",
+                                    "goodsid": "激光投影电视"
+                                }
+                            ]        
+                        },
+                        {
+                            "titles": "音响",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots123.png",
+                                    "goodsid": "小米电视音响"
+                                }
+                            ]
+                        },
+                        {
+                            "titles": "电视配件及会员",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots124.png",
+                                    "goodsid": "遥控器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots126.png",
+                                    "goodsid": "麦克风"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots125.png",
+                                    "goodsid": "会员卡"
+                                }
+                            ]
+                        }
+                ]
+            }]
+        },
+        {
+            "id": "4",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots50.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "电脑",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots51.png",
+                                    "goodsid": "小米Air 12.5"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots52.png",
+                                    "goodsid": "小米Air 13.3"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots53.png",
+                                    "goodsid": "小米笔记本 15.6"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots54.png",
+                                    "goodsid": "小米Pro 15.6"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots55.png",
+                                    "goodsid": "小米游戏本"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots56.png",
+                                    "goodsid": "小米平板"
+                                }
+                            ]        
+                        },
+                        {
+                            "titles": "电脑配件",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots105.png",
+                                    "goodsid": "鼠标"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots106.png",
+                                    "goodsid": "机械键盘"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots107.png",
+                                    "goodsid": "游戏键盘"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots108.png",
+                                    "goodsid": "游戏鼠标"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots109.png",
+                                    "goodsid": "转接线/电源"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots120.png",
+                                    "goodsid": "适配器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots121.png",
+                                    "goodsid": "笔记本双肩包"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots122.png",
+                                    "goodsid": "笔记本贴纸"
+                                }
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "id": "5",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots60.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "家电",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots61.png",
+                                    "goodsid": "烘洗一体机"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots62.png",
+                                    "goodsid": "空调"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots63.png",
+                                    "goodsid": "净化机"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots64.png",
+                                    "goodsid": "落地扇"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots65.png",
+                                    "goodsid": "扫地机"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots67.png",
+                                    "goodsid": "投影仪"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots68.png",
+                                    "goodsid": "净水器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots69.png",
+                                    "goodsid": "新风扇"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots70.png",
+                                    "goodsid": "电暖气"
+                                }
+                            ]        
+                        },
+                        {
+                            "titles": "厨房家电",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots71.png",
+                                    "goodsid": "电饭煲"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots72.png",
+                                    "goodsid": "电磁炉"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots73.png",
+                                    "goodsid": "厨房用具"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots74.png",
+                                    "goodsid": "滤水壶"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots75.png",
+                                    "goodsid": "水壶"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots76.png",
+                                    "goodsid": "水质检测表"
+                                }
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "id": "6",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots90.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "路由器",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots91.png",
+                                    "goodsid": "路由器4C"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots92.png",
+                                    "goodsid": "路由器4Q"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots93.png",
+                                    "goodsid": "路由器4"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots94.png",
+                                    "goodsid": "路由器Pro"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots95.png",
+                                    "goodsid": "路由器HD"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots96.png",
+                                    "goodsid": "小米路由器3A"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots97.png",
+                                    "goodsid": "小米路由器3G"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots98.png",
+                                    "goodsid": "米连卡随身路由器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots99.png",
+                                    "goodsid": "WiFi放大器"
+                                }
+                            ]        
+                        }
+                ]
+            }]
+        },
+        {
+            "id": "7",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots80.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "出行",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots81.png",
+                                    "goodsid": "平衡车"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots82.png",
+                                    "goodsid": "滑板车"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots83.png",
+                                    "goodsid": "自行车"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots84.png",
+                                    "goodsid": "智能后视镜"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots85.png",
+                                    "goodsid": "智能记录仪"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots86.png",
+                                    "goodsid": "车载逆变器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots87.png",
+                                    "goodsid": "车载空气净化器"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots88.png",
+                                    "goodsid": "平衡车配件"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots89.png",
+                                    "goodsid": "对讲机"
+                                }
+                            ]        
+                        }
+                ]
+            }]
+        },
+        {
+            "id": "8",
+            "proId1" : [{
+                "pic1": "../../../static/img/hots100.png",
+                "pic2": "../../../static/img/hots104.png",
+                "proId" : [
+                        {
+                            "titles": "穿戴",
+                            "proId2" : [
+                                {
+                                    "pic": "../../../static/img/hots101.png",
+                                    "goodsid": "手环"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots102.png",
+                                    "goodsid": "智能手表"
+                                },
+                                {
+                                    "pic": "../../../static/img/hots103.png",
+                                    "goodsid": "VR"
+                                }
+                            ]        
+                        }
+                ]
+            }]
+        }
+    
+    
+],
+
+
+
+    "titlelists" : [
+        {
+          "title" :"新品"  
+        },
+        {
+            "title": "众筹"
+        },
+        {
+            "title": "手机"
+        },
+        {
+            "title": "电视"
+        },
+        {
+            "title": "电脑"
+        },
+        {
+            "title": "家电"
+        },
+        {
+            "title": "路由"
+        },
+        {
+            "title" :"出行"  
+          },
+          {
+              "title": "穿戴"
+          },
+          {
+              "title": "智能"
+          },
+          {
+              "title": "电源"
+          },
+          {
+              "title": "健康"
+          },
+          {
+              "title": "家电"
+          },
+          {
+              "title": "路由"
+          },
+          {
+            "title": "灯具"
+        },
+        {
+            "title": "插线板"
+        },
+        {
+            "title": "音频"
+        },
+        {
+            "title": "配件"
+        },
+        {
+            "title": "礼品"
+        }
+
+  
+    ]
+
+}
